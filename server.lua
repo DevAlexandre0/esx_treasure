@@ -1,4 +1,3 @@
-ESX = exports["es_extended"]:getSharedObject()
 -- Function to give a random item to the player based on chances
 RegisterServerEvent("giveRandomItem")
 AddEventHandler("giveRandomItem", function()    
